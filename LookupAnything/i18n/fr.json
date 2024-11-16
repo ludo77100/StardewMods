@@ -51,12 +51,12 @@
     "quality.iridium": "iridium",
 
     // item names shown in recipes
-    "item.wild-seeds": "Wild Seeds (Any)", // TODO
+    "item.wild-seeds": "Graine sauvage (Toute)", // TODO
 
     // NPC friendship
     "friendship-status.friendly": "Ami",
     "friendship-status.dating": "Romance",
-    "friendship-status.engaged": "Engagé",
+    "friendship-status.engaged": "Fiancé",
     "friendship-status.married": "Marié",
     "friendship-status.divorced": "Divorcé",
     "friendship-status.kicked-out": "Rejeté",
@@ -95,7 +95,7 @@
     "data.npc.trash-bear.description": "Un esprit amical qui nettoie les déchets.",
 
     // item types
-    "data.type.container": "Contenant",
+    "data.type.container": "Conteneur",
 
     // override item text
     "data.item.egg-incubator.description": "Fait éclore les oeufs en des poussins et canetons.",
@@ -109,7 +109,7 @@
     // location names
     "location.beach.east-pier": "plage (jetée à l'est)",
     "location.bugLand": "repaire des insectes mutants",
-    "location.desert.topPond": "desert (north pond)", // TODO
+    "location.desert.topPond": "désert (étang du nord)",
     "location.farmCave": "grotte de la ferme",
     "location.farmHouse": "maison de ferme",
     "location.forest.island-tip": "rivière de la forêt (pointe sud de la grande île)",
@@ -139,11 +139,11 @@
     ** Conditions & context tags
     *********/
     // TODO
-    "condition-or-context-tag.negate": "not {{value}}",
+    "condition-or-context-tag.negate": "not {{value}}", //TODO need some context to translate 
 
-    "condition.day-of-month": "on specific days ({{days}})",
-    "condition.day-of-month.even": "even days",
-    "condition.day-of-month.odd": "odd days",
+    "condition.day-of-month": "un jour précis ({{days}})",
+    "condition.day-of-month.even": "même journée",
+    "condition.day-of-month.odd": "odd days", //TODO need some context to translate
 
     "condition.item-type.input": "input item",
     "condition.item-type.target": "target item",
